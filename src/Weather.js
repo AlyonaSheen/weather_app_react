@@ -63,4 +63,8 @@ export default function Weather() {
       </div>
     </div>
   );
+
+  <a href="github.com/AlyonaSheen/weather_app_react">
+    Open-souce code by Alona Sheen
+  </a>;
 }
